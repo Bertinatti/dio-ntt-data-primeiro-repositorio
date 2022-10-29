@@ -1,0 +1,2 @@
+Link Útil para o Download do Git: https://git-scm.com/
+Neste link também é possível encontra o Download para o GitBash.
